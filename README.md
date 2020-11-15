@@ -5,9 +5,9 @@
 
 I'm Adrian from Poland, and I do responsive Websites and app. I realy enjoy learning languagues (JavaScript, PHP) and frameworks like React. I learn new programming things every day.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on my skills :) 
 
 
 
