@@ -14,7 +14,7 @@ I'm Adrian from Poland, and I do responsive Websites and app. I realy enjoy lear
 <img alt="ReactJS" title="ReactJS" src="https://cdn.worldvectorlogo.com/logos/react.svg" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
 ## Let's work together:
 
-- 📫 adrian.filinski1993@gmail.com
+📫 adrian.filinski1993@gmail.com
 
 
 
