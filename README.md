@@ -1,4 +1,4 @@
-![Junior Web Developer](https://pbs.twimg.com/profile_banners/2776079126/1605445462/1500x500)
+![Junior Web Developer](https://github.com/AdrianFilinski/AdrianFilinski/blob/main/banner.jpg)
 
 ### Hi there 👋, I am Adrian
 #### Junior Web Developer
