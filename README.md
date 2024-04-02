@@ -1,7 +1,7 @@
 
 
-### Hi there 👋, I am Adrian
-#### Junior Frontend Developer
+### Hi there 👋, I'm Adrian
+#### Salesforce Marketing CLoud Developer
 
 I'm Adrian from Poland, and I do responsive Websites and app. I realy enjoy learning languagues Javascript and frameworks like React. I learn new programming things every day.
 
